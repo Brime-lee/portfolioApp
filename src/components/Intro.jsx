@@ -17,8 +17,8 @@ function Intro() {
           significant years of experience in React.js, Next.js among others. I
           specialize in crafting responsive web designs that adapt to any screen
           size or device. 📱💻
-          <br /> I am constantly striving to stay on top of the latest trends
-          and technologies, and I love experimenting with new frameworks and
+          <br /> I'm constantly striving to stay on top of the latest trends and
+          technologies, and I love experimenting with new frameworks and
           libraries to find the best solutions for any project. 💡 Whether it's
           a simple landing page or a complex web application, I'm always eager
           to take on new challenges and push the boundaries of what's possible.

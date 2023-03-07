@@ -57,12 +57,14 @@ const Header = () => {
     </svg>
   );
   return (
-    <div className='w-full p-6 flex justify-between items-center '>
-      <h4 className='text-lg dark:text-white font-bold'>Brime's Portfolio</h4>
+    <div className='px-8 py-4 flex justify-between items-center bg-transparent '>
+      <h4 className='text-xl md:text-3xl text-stone-900 font-bold'>
+        Brime's Portfolio
+      </h4>
       <button
         type='button'
         onClick={handleThemeSwitch}
-        className=' p-2 bg-violet-300 dark:bg-orange-300 text-lg rounded-md'
+        className=' p-2 bg-violet-300 dark:bg-orange-500 text-lg z-10 rounded-md'
       >
         {theme === 'dark' ? sun : moon}
       </button>

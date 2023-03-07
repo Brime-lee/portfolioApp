@@ -6,7 +6,7 @@ export const fetchRepos = async (username) => {
       `${import.meta.env.VITE_BASE_URL}/users/${username}/repos?per_page=6`,
       {
         headers: {
-          Authorization: `token ${import.meta.env.VITE_GITHUB_KEY}`,
+          Authorization: `token ${import.meta.env.VITE_REACT_APP_TOKEN_NAME}`,
         },
       }
     );

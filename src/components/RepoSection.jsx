@@ -2,7 +2,7 @@ import React, { useState, useEffect, useMemo } from 'react';
 import RepoCard from './RepoCard';
 import { HashLoader } from 'react-spinners';
 import { fetchRepos } from '../data/fetchRepos';
-import Title from './Title';
+import Title from './Title/Title';
 
 function RepoSection() {
   const [data, setData] = useState([]);

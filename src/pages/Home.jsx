@@ -2,7 +2,7 @@ import React from 'react';
 import Header from './../components/Header';
 import Intro from './../components/Intro';
 import RepoSection from '../components/RepoSection';
-import ProjectSection from '../components/ProjectSection';
+import ProjectSection from '../components/Project/ProjectSection';
 import Footer from './../components/Footer';
 import CertificationSection from '../components/CertificationSection';
 import BG from '../../assets/bg.jpg';

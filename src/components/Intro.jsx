@@ -12,7 +12,7 @@ function Intro() {
           Frontend Developer
         </p>
         <p className='text-sm md:text-xl max-w-7xl mb-6 text-stone-700 font-bold'>
-          Hi there! 👋 I'm a frontend developer with a passion for creating
+          Hi there! 👋 I am a frontend developer with a passion for creating
           beautiful, intuitive, and user-friendly interfaces. 🎨🌟 With
           significant years of experience in React.js, Next.js among others. I
           specialize in crafting responsive web designs that adapt to any screen

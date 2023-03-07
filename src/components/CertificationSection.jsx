@@ -1,7 +1,7 @@
 import React from 'react';
 import certificates from '../data/certificates';
 import CertificateItem from './CertificateItem';
-import Title from './Title';
+import Title from './Title/Title';
 
 function CertificationSection() {
   return (

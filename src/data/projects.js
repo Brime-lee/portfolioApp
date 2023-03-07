@@ -14,14 +14,14 @@ export default [
       'This is an application that the organization uses to manage and track employee leave requests and approvals. The system can be used to automate and streamline the process of submitting, reviewing, and approving leave request, as well as tracking employee vacation and sick days.',
   },
   {
-    year: '2022',
+    year: '2021',
     title: 'BMS (Business management system)',
     duration: '4 months',
     details:
       'The BMS is a mini-ERP and it is used to streamline and automate business processes, improve efficiency, increase visibility across the organization and provide access to accurate, real-time information. It helps businesses to improve their overall performance by providing insights into key performance indicators, such as sales, inventory levels, and production costs',
   },
   {
-    year: '2021',
+    year: '2020',
     title: 'PayBlock',
     duration: '4 Months',
     details:

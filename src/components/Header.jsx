@@ -58,7 +58,7 @@ const Header = () => {
   );
   return (
     <div className='w-full p-6 flex justify-between items-center '>
-      <h4 className='text-lg dark:text-white font-bold'>My Portfolio</h4>
+      <h4 className='text-lg dark:text-white font-bold'>Brime's Portfolio</h4>
       <button
         type='button'
         onClick={handleThemeSwitch}

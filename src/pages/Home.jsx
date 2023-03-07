@@ -2,9 +2,10 @@ import React from 'react';
 import Header from './../components/Header';
 import Intro from './../components/Intro';
 import Portfolio from './../components/Portfolio';
-import Timeline from './../components/Timeline';
-import Contact from './../components/Contact';
+import ProjectSection from '../components/ProjectSection';
 import Footer from './../components/Footer';
+import BG from '../../assets/bg.jpg';
+import CertificationSection from '../components/CertificationSection';
 
 const Home = () => {
   return (
@@ -13,8 +14,8 @@ const Home = () => {
       <div className='max-w-5xl w-11/12 mx-auto'>
         <Intro />
         <Portfolio />
-        <Timeline />
-        <Contact />
+        <ProjectSection />
+        <CertificationSection />
         <Footer />
       </div>
     </div>
